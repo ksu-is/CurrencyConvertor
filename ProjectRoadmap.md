@@ -8,10 +8,11 @@
     - [x] Come up with a definitive name for the application (GlobeChange)
 ## Second Phase
     - [ ] Develop the core currency convertor
-    - [ ] Develop the GUI to be clean, nice to look at, and user friendly
-    - [ ] Integrate historical integration and news article titles and links
+    - [x] Develop the GUI to be clean, nice to look at, and user friendly
+
 
 ## Final Phase
+    - [ ] Integrate historical integration and news article titles and links
     - [ ] Test code and update README file to explain how the application works
     - [ ] Make any final changes and make sure the code is free of any syntax errors
     - [ ] Create the powerpoint presentaiton 
