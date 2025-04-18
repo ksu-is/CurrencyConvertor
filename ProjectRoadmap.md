@@ -7,7 +7,7 @@
     - [x] Find existing sample code and test it 
     - [x] Come up with a definitive name for the application (GlobeChange)
 ## Second Phase
-    - [ ] Develop the core currency convertor
+    - [x] Develop the core currency convertor
     - [x] Develop the GUI to be clean, nice to look at, and user friendly
 
 
