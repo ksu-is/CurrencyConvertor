@@ -46,9 +46,6 @@ label.pack(pady=10)
 btn = CTkButton(master=app, text="News")
 btn.place(relx=0.2, rely=0.05, anchor="ne")
 
-textbox = customtkinter = CTkTextbox(app)
-textbox.insert(0.0, "Enter Currency Amount")
-
 convert_btn = CTkButton(master=app, text="Convert", command=on_convert)
 convert_btn.pack(pady=10)
 
