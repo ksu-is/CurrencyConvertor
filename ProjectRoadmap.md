@@ -15,4 +15,4 @@
     - [ ] Integrate historical integration and news article titles and links
     - [ ] Test code and update README file to explain how the application works
     - [ ] Make any final changes and make sure the code is free of any syntax errors
-    - [ ] Create the powerpoint presentaiton 
+    - [x] Create the powerpoint splash
