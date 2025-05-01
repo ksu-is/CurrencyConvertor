@@ -5,6 +5,4 @@ A simple currency convertor that will utilize a clean GUI along with showing a t
 ## Features
 -Currency Convertor for several countries
 
--Line Graph data for currencies of said countries
-
 -Links to news articles about the economic conditions of certain countries
