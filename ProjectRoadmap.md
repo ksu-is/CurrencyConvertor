@@ -12,7 +12,7 @@
 
 
 ## Final Phase
-    - [ ] Integrate news article titles and links
-    - [ ] Test code and update README file to explain how the application works
-    - [ ] Make any final changes and make sure the code is free of any syntax errors
+    - [x] Integrate news article titles and links
+    - [x] Test code and update README file to explain how the application works
+    - [x] Make any final changes and make sure the code is free of any syntax errors
     - [x] Create the powerpoint splash
