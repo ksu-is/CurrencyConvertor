@@ -42,7 +42,7 @@ def show_news_articles():
         "KWD": ("Kuwait plots payment system and digital Dinar", "https://www.fintechfutures.com/paytech/kuwait-plots-payment-system-and-digital-dinar")
     }
 
-    CTkLabel(news_articles, text="Currency News Headlines:", font=("Arial", 14, "bold")).pack(pady=(10, 5))
+    CTkLabel(news_articles, text="Currency News Articles:", font=("Arial", 14, "bold")).pack(pady=(10, 5))
 
     for currency, (headline, link) in news_data.items():
         label = CTkLabel(
